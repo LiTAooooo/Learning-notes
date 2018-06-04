@@ -6,3 +6,5 @@
 - [如何使用Git和GitHub](https://www.zybuluo.com/LiTAOo/note/1157004)
 
 - [MDN-HTML学习](https://www.zybuluo.com/LiTAOo/note/1143765)
+
+- [如何科学上网](https://www.zybuluo.com/LiTAOo/note/1170157)
